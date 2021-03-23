@@ -1,6 +1,5 @@
 const FILES_TO_CACHE = [
-    "/",
- 
+    "/"
   ];
   
   const STATIC_CACHE = "static-cache-v1";
